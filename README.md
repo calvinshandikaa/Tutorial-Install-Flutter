@@ -26,7 +26,7 @@ https://developer.android.com/studio/#command-tools
 7.Setelah itu update sdk dengan command : sdkmanager —-update Jangan lupa untuk menjalankan syntax accept licenses nya flutter doctor --android-licenses <img src="flutter 7.PNG"> <br>
 8.Selanjutnya install Visual Studio Code dan ekstension flutter serta dart nya. <img src="flutter 1.PNG"> <br>
 9.Jika semuanya sudah selesai silahkan buka terminal (Command Prompt) di Android/flutter atau untuk pengguna windows bisa double klik di C:\Android\Flutter\flutter_console.bat dan jalankan perintah flutter doctor, maka hasilnya seperti gambar berikut.
-<img src=" flutter 2.PNG"> <img src="sdklisence.PNG"> <br>
+<img src="flutter 2.PNG"> <img src="sdklisence.PNG"> <br>
 10.Step terakhir adalah buat project di VsCode dengan klik F1 dan mengetikan Flutter: New Project setelah project selesai di load, klik F5 untuk mendeploy ke android device teman-teman.
 
 
