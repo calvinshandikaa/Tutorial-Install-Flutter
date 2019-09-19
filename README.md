@@ -7,6 +7,7 @@ Kode Mata Kuliah : (COE-5109) <br> <img src="logo.png">
 LANGKAH-LANGKAH INSTALL FLUTTER: <br>
 1.Siapkan Software FLUTTER beserta SDK <br>
 2.Kemudian,download Command Line Tools Only pada  web Android Developer: <br>
+https://developer.android.com/studio/#command-tools
 <img src="develop.PNG">
 3.Setelah filenya di download letakkan dalam satu folder yaitu Local Disk (C:\Android) dan setelah itu kita extract.Maka hasilnya akan ada 2 folder yaitu folder flutter dan tools.<br> <br>
 4.Selanjutnya silahkan download OpenJDK di halaman ini, dan pilih yang berekstensi zip. sesuaikan dengan sistem operasi yang digunakan, setelah di download jangan lupa untuk mengekstrak ke folder Android yang sudah kita punya sebelumnya dan rename nama folder dari jdk8u212-b03 menjadi openjdk. totalnya sekarang kita punya 3 folder yaitu flutter, tools dan openjdk.<br> <br>
